@@ -1,0 +1,22 @@
+00:00:00.243234 VirtualBox GUI VM Selector Window 6.1.22 r144080 linux.amd64 (Jun 21 2021 10:09:41) release log
+00:00:00.243235 Log opened 2021-07-21T10:20:21.965996000Z
+00:00:00.243236 Build Type: release
+00:00:00.243237 OS Product: Linux
+00:00:00.243238 OS Release: 5.12.15-arch1-1
+00:00:00.243239 OS Version: #1 SMP PREEMPT Wed, 07 Jul 2021 23:35:29 +0000
+00:00:00.243254 DMI Product Name: Fusion Gamer
+00:00:00.243259 DMI Product Version: System Version
+00:00:00.243262 Firmware type: UEFI
+00:00:00.243767 Secure Boot: Disabled
+00:00:00.243792 Host RAM: 11968MB (11.6GB) total, 10200MB (9.9GB) available
+00:00:00.243794 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.243794 Process ID: 7589
+00:00:00.243795 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.243817 Qt version: 5.15.2
+00:00:00.249140 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.249160 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.562742 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 30x40 x 1860x980
+00:00:32.166136 GUI: UIMediumEnumerator: Medium with key={{3414693e-32c1-42ac-b296-f4fdd0215474}} created
+00:00:32.328271 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:49.156496 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:04:27.782127 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0

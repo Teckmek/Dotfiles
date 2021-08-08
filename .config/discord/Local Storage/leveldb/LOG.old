@@ -1,0 +1,6 @@
+2021/07/24-17:55:56.927 3347a1 Reusing MANIFEST /home/archie/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/07/24-17:55:56.927 3347a1 Recovering log #75
+2021/07/24-17:55:56.927 3347a1 Reusing old log /home/archie/.config/discord/Local Storage/leveldb/000075.log 
+2021/07/24-20:40:38.724 3f2cd4 Level-0 table #80: started
+2021/07/24-20:40:38.725 3f2cd4 Level-0 table #80: 23055 bytes OK
+2021/07/24-20:40:38.727 3f2cd4 Delete type=0 #75

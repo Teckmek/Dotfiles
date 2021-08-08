@@ -1,0 +1,7 @@
+2021/07/30-13:38:45.032 3ed3 Recovering log #3
+2021/07/30-13:38:45.207 3ed3 Level-0 table #5: started
+2021/07/30-13:38:45.287 3ed3 Level-0 table #5: 2784458 bytes OK
+2021/07/30-13:38:45.290 3ed3 Recovering log #8
+2021/07/30-13:38:45.305 3ed3 Delete type=0 #3
+2021/07/30-13:38:45.305 3ed3 Delete type=0 #8
+2021/07/30-13:38:45.305 3ed3 Delete type=3 #2

@@ -1,0 +1,13 @@
+[source]
+name=QEMU Session
+type=libvirt
+uri=qemu+unix:///session
+save-on-quit=true
+
+[display b2819621-849a-42a4-9e57-88a215e08238]
+last-seen-name=xubuntu-20
+uuid=b2819621-849a-42a4-9e57-88a215e08238
+run-in-bg=false
+access-last-time=1626869035044724
+access-ntimes=3
+access-total-time=407

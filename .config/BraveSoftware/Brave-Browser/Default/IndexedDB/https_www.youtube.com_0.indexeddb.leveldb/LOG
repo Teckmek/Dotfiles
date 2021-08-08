@@ -1,0 +1,18 @@
+2021/07/21-19:43:27.543 41a4 Reusing MANIFEST /home/archie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/21-19:43:27.543 41a4 Recovering log #3
+2021/07/21-19:43:27.544 41a4 Reusing old log /home/archie/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2021/07/21-19:43:29.516 41a4 Level-0 table #5: started
+2021/07/21-19:43:29.518 41a4 Level-0 table #5: 124013 bytes OK
+2021/07/21-19:43:29.520 41a4 Delete type=0 #3
+2021/07/21-19:43:29.520 41a4 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/21-19:43:29.734 4198 Level-0 table #7: started
+2021/07/21-19:43:29.735 4198 Level-0 table #7: 15390 bytes OK
+2021/07/21-19:43:29.736 4198 Delete type=0 #4
+2021/07/21-19:43:29.737 4198 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/21-19:43:29.737 4575 Manual compaction at level-1 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 1437 : 1
+2021/07/21-19:43:29.737 4575 Compacting 1@1 + 1@2 files
+2021/07/21-19:43:29.739 4575 Generated table #8@1: 171 keys, 11429 bytes
+2021/07/21-19:43:29.739 4575 Compacted 1@1 + 1@2 files => 11429 bytes
+2021/07/21-19:43:29.741 4575 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/21-19:43:29.742 4575 Delete type=2 #7
+2021/07/21-19:43:29.742 4575 Manual compaction at level-1 from '\x00\x08\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 1437 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
